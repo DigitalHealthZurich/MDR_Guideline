@@ -28,7 +28,7 @@ url: "https://carmenfrischknecht.github.io/" # the base hostname & protocol for 
 github_username:  MDR
 
 # Build settings
-theme: jekyll-theme-minima
+theme: minima
 plugins:
   - jekyll-feed
 
