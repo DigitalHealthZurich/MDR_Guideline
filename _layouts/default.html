@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  
+  <title>{{ page.title }} | {{ site.title }}</title>
+  
+  <!-- Link to Google Fonts for Roboto -->
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+  
+  <link rel="stylesheet" href="{{ '/assets/main.css' | relative_url }}">
+  <link rel="stylesheet" href="{{ '/assets/custom.css' | relative_url }}">
+</head>
+
+<body>
+
+  <!-- Include the custom header from _includes/header.html -->
+  {% include header.html %}
+
+  <main class="page-content" aria-label="Content">
+    <div class="wrapper">
+      {{ content }}
+    </div>
+  </main>
+
+  <footer class="site-footer h-card">
+    <div class="wrapper">
+      <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}</p>
+    </div>
+  </footer>
+
+</body>
+</html>

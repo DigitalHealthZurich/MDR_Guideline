@@ -1,0 +1,113 @@
+/* General body styles */
+body {
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+    color: black; /* Main content text should be black */
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Site header */
+  .site-header {
+    background-color: #333; /* Dark background for the header */
+    color: white;
+    padding: 20px 0;
+  }
+  
+  /* Site title (MDR) */
+  .site-title {
+    font-size: 28px;
+    margin-left: 20px;
+    color: white !important; /* Force the site title to always be white */
+    text-decoration: none;
+    margin-right: 40px;
+    font-weight: 700;
+  }
+  
+  .site-title:hover {
+    text-decoration: underline;
+  }
+  
+  /* Desktop navigation (white links) */
+  .site-nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  .site-nav ul li {
+    margin-left: 30px;
+  }
+  
+  .site-nav ul li a {
+    color: white !important; /* White links on desktop */
+    text-decoration: none;
+    font-size: 16px;
+    padding: 10px 0;
+    transition: text-decoration 0.3s, color 0.3s;
+  }
+  
+  .site-nav ul li a:hover {
+    text-decoration: underline;
+    color: #ddd; /* Lighter text on hover */
+  }
+  
+  /* Main content styling */
+  .wrapper {
+    padding: 40px;
+    color: black;
+  }
+  
+  /* Burger menu icon */
+  .menu-icon {
+    cursor: pointer;
+  }
+  
+  #nav-trigger {
+    display: none; /* Hide the checkbox for the burger menu */
+  }
+  
+  /* Responsive navigation (burger menu for mobile) */
+  @media (max-width: 768px) {
+    .site-nav ul {
+      display: none; /* Hide the menu initially */
+      flex-direction: column; /* Stack links vertically */
+      background-color: white; /* White background for the mobile menu */
+      width: 100%; /* Ensure the menu takes up full width */
+      position: absolute;
+      top: 60px; /* Position below the header */
+      left: 0;
+      padding: 0;
+      margin: 0;
+      z-index: 1; /* Ensure the menu is above other content */
+    }
+  
+    #nav-trigger:checked + .menu-icon + .trigger ul {
+      display: flex; /* Show the links as a vertical menu */
+    }
+  
+    .site-nav ul li {
+      width: 100%; /* Ensure links take up the full width on mobile */
+    }
+  
+    .site-nav ul li a {
+      color: black !important; /* Black text for mobile menu links */
+      padding: 15px; /* Add padding for touch-friendly links */
+      text-align: center; /* Center-align the text */
+      background-color: transparent; /* No background color */
+      border-bottom: 1px solid #eee; /* Light border between links for separation */
+    }
+  
+    .site-nav ul li a:hover {
+      color: #555; /* Darker gray on hover */
+    }
+  
+    .menu-icon {
+      position: relative; /* Keep the burger icon in place */
+      z-index: 2; /* Ensure the burger icon stays on top */
+    }
+  }
+  

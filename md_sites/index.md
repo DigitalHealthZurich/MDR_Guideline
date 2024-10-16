@@ -1,13 +1,12 @@
 ---
 layout: default
-title: "Welcome to the Medical Device Qualification Tool"
+title: "MDR Guideline"
+permalink: /
 ---
 
-# Welcome to the Medical Device Qualification Tool
+# Welcome to the Medical Device Regulation Guideline
 
-This website is designed to guide you through the process of determining whether your product qualifies as a medical device under the Medical Device Regulation (MDR). It provides a step-by-step approach to help you understand the necessary compliance steps and navigate the regulatory landscape.
-
-## What You Can Do Here
+This website is designed to guide you through the process of determining whether your product qualifies as a medical device under the Medical Device Regulation (MDR). It provides a guideline to help you understand the necessary compliance steps and navigate the regulatory landscape.
 
 - **Determine Qualification**: Find out if your product is classified as a medical device.
 - **Understand Classification**: Learn about the different classes of medical devices and where your product fits.
@@ -16,16 +15,17 @@ This website is designed to guide you through the process of determining whether
 
 ## Get Started
 
-To begin, start with the qualification process to determine if your product qualifies as a medical device under MDR.
-
-- [Start the Qualification Process](/md_sites/qualification_intended_use.html)
+- [CE Product Categories](ce-product-categories.html)
+- [MDR Overview](qualification_intended_use.html)
+- [Requirements Compliance](requirements.html)
 
 ## Additional Resources
 
-- [About MDR](about.html)
-- [Contact Us](contact.html)
+[About MDR](about.html)<br>
+[Contact Us](contact.html)<br>
+[Impressum](impressum.html)<br>
 
 ---
 
-If you have any questions or need further assistance, feel free to [contact us](mailto:mdr_sks@zhaw.ch).
+If you have any questions or need further assistance, feel free to [contact us](mailto:mdr_sks@zhaw.ch). TBD
 

@@ -1,44 +1,34 @@
 ---
 layout: default
+title: Medical Device Classification
 ---
+## **Medical Device Classification Based on Intended Use and Risk**
 
-# Determine the Intended Use of Your Product
+Under **MDR (EU 2017/745)**, medical devices are classified into four risk categories. The classification depends on the device’s intended use, the level of risk it presents to the patient or user, and factors such as invasiveness and the duration of contact with the body. Proper classification is essential for compliance with MDR regulations.
 
-The intended use of your product is the primary factor in determining whether it qualifies as a medical device under the MDR. This step will guide you through the process of identifying the intended purpose of your product.
+### **General Classification:**
+1. **Class I**: Low risk (e.g., non-invasive devices such as bandages).
+2. **Class IIa**: Medium risk (e.g., short-term invasive devices like syringes).
+3. **Class IIb**: Higher risk (e.g., devices that sustain or support life, such as ventilators).
+4. **Class III**: Highest risk (e.g., long-term implants like pacemakers).
 
-## What is the primary intended purpose of your product?
 
-Please select the option that best describes the primary intended purpose of your product:
+### **Key Factors for Classification**:
+- **Intended Use**: The manufacturer’s stated purpose for the device.
+- **Risk Assessment**: Evaluation of harm the device may cause to patients or users.
+- **Invasiveness**: Devices that enter the body (e.g., surgical instruments) are classified into higher risk categories.
+  
+For a comprehensive guide on classification, refer to [**MDR Article 51**](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R0745#d1e4775-1-1){:target="_blank"} and [**Annex VIII**](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R0745#d1e32-140-1). For the classficiation according to IMDRF refer to [**Classification IMDRF**](https://health.ec.europa.eu/system/files/2020-09/md_mdcg_2019_11_guidance_qualification_classification_software_en_0.pdf){:target="_blank"} - Annex III - Usability of the IMDRF risk classification framework in the context of the MDR.
 
-1. **Diagnosis, prevention, monitoring, prediction, prognosis, treatment, or alleviation of disease**  
-   - If your product is intended to be used for diagnosing, preventing, monitoring, or treating diseases, or managing their symptoms, it is likely to be considered a medical device.
-   - [Learn More](qualification_disease_related.md)
-   
-2. **Diagnosis, monitoring, treatment, alleviation of, or compensation for an injury or disability**  
-   - Products designed to assist in managing injuries or disabilities, whether by diagnosis, treatment, or compensation, are typically classified as medical devices.
-   - [Learn More](qualification_injury_related.md)
+### **Special Device Categories**:
+- **Software as a Medical Device (SaMD)**: Standalone software used for medical purposes, such as diagnostic software, is classified based on its functionality and associated risk. [**MDCG Guidance for SaMD**](https://health.ec.europa.eu/system/files/2020-09/md_mdcg_2019_11_guidance_qualification_classification_software_en_0.pdf){:target="_blank"}
+- **Software in a Medical Device (SinMD)**: Software embedded in a hardware device (e.g., control systems for diagnostic machines). [**MDCG Guidance for Software Qualification**](https://ec.europa.eu/docsroom/documents/37581){:target="_blank"}
+- **In Vitro Diagnostic Devices (IVD)**: Devices for testing specimens derived from the human body, classified under a separate regulation, **IVDR (EU 2017/746)**, available [**here**](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0746){:target="_blank"}
 
-3. **Investigation, replacement, or modification of the anatomy or of a physiological or pathological process or state**  
-   - Products that affect the body’s structure or function, such as implants or devices used in surgery, also fall under medical device classification.
-   - [Learn More](qualification_anatomy_related.md)
+For further details on classification, visit the [**MDR full text**](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0745){:target="_blank"}.
 
-4. **Providing information by means of in vitro examination of specimens derived from the human body**  
-   - If your product is used for in vitro diagnostics, such as testing samples like blood or tissue, it may qualify as a medical device under specific regulations.
-   - [Learn More](qualification_in_vitro.md)
+--------------------------------------------------------------
 
-5. **Other purposes**  
-   - If your product does not fit into any of the above categories, further clarification is needed to determine if it qualifies as a medical device.
-   - [Learn More](qualification_other_purposes.md)
-
-## What to Do Next
-
-Once you have identified the intended use of your product, proceed to the next step to assess whether it qualifies as a medical device under MDR.
-
-- [Proceed to Qualification Outcome](qualification_outcome.md)
-
----
-
-### References
-
-- [MDR Article 2: Definitions](link_to_article_2)
-- [Guidance on the Qualification and Classification of Software (MDCG 2019-11)](link_to_mdcg_2019_11)
+- **Click here to proceed → [Classification Table and Details](classification_table.html) TBD**
+- **Click here to proceed → [Software Details](software_details.html) TBD**
+- **Click here to proceed → [Requirements Compliance](requirements.html)**
