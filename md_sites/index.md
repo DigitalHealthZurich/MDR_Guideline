@@ -15,9 +15,9 @@ This website is designed to guide you through the process of determining whether
 
 ## Get Started
 
-- [CE Product Categories](ce-product-categories.html)
-- [MDR Overview](qualification_intended_use.html)
-- [Requirements Compliance](requirements.html)
+- [CE Product Categories](/MDR_Guideline//md_sites/ce-product-categories.html)
+- [MDR Overview](/MDR_Guideline//md_sites/qualification_intended_use.html)
+- [Requirements Compliance](/MDR_Guideline//md_sites/requirements.html)
 
 ## Additional Resources
 
