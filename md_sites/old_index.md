@@ -3,7 +3,7 @@ layout: default
 title: "MDR Guideline"
 permalink: /
 ---
-
+ 
 # Welcome to the Medical Device Regulation Guideline
 
 This website is designed to guide you through the process of determining whether your product qualifies as a medical device under the Medical Device Regulation (MDR). It provides a guideline to help you understand the necessary compliance steps and navigate the regulatory landscape.
@@ -17,7 +17,6 @@ This website is designed to guide you through the process of determining whether
 
 - [CE Product Categories](/MDR_Guideline//md_sites/ce-product-categories.html)
 - [MDR Overview](/MDR_Guideline//md_sites/qualification_intended_use.html)
-- [Requirements Compliance](/MDR_Guideline//md_sites/requirements.html)
 
 ## Additional Resources
 

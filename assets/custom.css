@@ -110,4 +110,28 @@ body {
       z-index: 2; /* Ensure the burger icon stays on top */
     }
   }
+/* Force main content to be centered */
+.page-content {
+  display: block !important;
+  max-width: 85vw !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+  padding: 20px !important;
+  text-align: left !important;
+}
+
+/* Adjust margins for large screens */
+@media (min-width: 1200px) {
+  .page-content {
+      max-width: 75vw !important;
+  }
+}
+
+/* Adjust for smaller screens */
+@media (max-width: 768px) {
+  .page-content {
+      max-width: 95vw !important;
+      padding: 10px !important;
+  }
+}
   

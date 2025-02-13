@@ -18,15 +18,13 @@
 
   <!-- Include the custom header from _includes/header.html -->
   {% include header.html %}
-
   <main class="page-content" aria-label="Content">
-    <div class="wrapper">
-      {{ content }}
-    </div>
-  </main>
+    {{ content }}
+</main>
+
 
   <footer class="site-footer h-card">
-    <div class="wrapper">
+    <div class="wrapper"> 
       <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}</p>
     </div>
   </footer>
