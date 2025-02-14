@@ -34,8 +34,17 @@
               });
             }
           });
+          // Ensures SVG background remains white (removes dark mode styles in SVG files)
+          let svgElement = svgDoc.querySelector("svg");
+          if (svgElement) {
+            svgElement.removeAttribute("style"); // Removes problematic dark mode style
+            svgElement.style.background = "white"; // Forces white background
+          }
         }
       });
+      if (obj.contentDocument) {
+        obj.dispatchEvent(new Event("load"));
+      }
     });
   });
 </script>
