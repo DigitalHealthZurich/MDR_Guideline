@@ -1,7 +1,6 @@
 ---
 layout: default
 title: ""
-permalink: /
 ---
 
 # Title
@@ -10,7 +9,7 @@ permalink: /
 
 - [test](/MDR_Guideline//md_sites/)
 
-
+templaaaate
 ### Subsubtitle
 
 This is the template

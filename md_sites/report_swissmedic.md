@@ -1,7 +1,6 @@
 ---
 layout: default
 title: "Report Changes and Incidents to Swissmedic"
-permalink: /
 ---
 
 # Title
@@ -10,7 +9,7 @@ permalink: /
 
 - [](/MDR_Guideline//md_sites/report_swissmedic.html)
 
-
+swissmedic report
 ### Subsubtitle
 
 

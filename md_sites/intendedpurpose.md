@@ -1,7 +1,6 @@
 ---
 layout: default
-title: ""
-permalink: /
+title: Intended Purpose
 ---
 
 # Title
@@ -10,7 +9,7 @@ permalink: /
 
 - [](/MDR_Guideline//md_sites/)
 
-
+intended purpose
 ### Subsubtitle
 
 

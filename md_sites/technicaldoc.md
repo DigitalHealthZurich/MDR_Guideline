@@ -1,7 +1,6 @@
 ---
 layout: default
-title: ""
-permalink: /
+title: Technical Documentation
 ---
 
 # Title
@@ -10,7 +9,7 @@ permalink: /
 
 - [](/MDR_Guideline//md_sites/)
 
-
+technical documentation 
 ### Subsubtitle
 
 

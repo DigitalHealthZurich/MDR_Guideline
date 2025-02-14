@@ -1,7 +1,6 @@
 ---
 layout: default
-title: ""
-permalink: /
+title: Clinical Evaluation 
 ---
 
 # Title
@@ -9,7 +8,7 @@ permalink: /
 ## Subtitle
 
 - [](/MDR_Guideline//md_sites/clinicalevaluation_.html)
-
+clinical evaluation
 
 ### Subsubtitle
 

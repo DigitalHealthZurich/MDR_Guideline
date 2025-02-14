@@ -1,7 +1,6 @@
 ---
 layout: default
-title: ""
-permalink: /
+title: Conformity Declaration
 ---
 
 # Title
@@ -10,7 +9,7 @@ permalink: /
 
 - [](/MDR_Guideline//md_sites/conformitydeclaration.html)
 
-
+conformitydeclaration
 ### Subsubtitle
 
 

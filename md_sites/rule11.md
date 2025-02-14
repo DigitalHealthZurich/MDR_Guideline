@@ -1,7 +1,6 @@
 ---
 layout: default
-title: ""
-permalink: /
+title: Software as a Medical Device - Rule 11
 ---
 
 # Title
@@ -10,7 +9,7 @@ permalink: /
 
 - [](/MDR_Guideline//md_sites/)
 
-
+rule 11
 ### Subsubtitle
 
 

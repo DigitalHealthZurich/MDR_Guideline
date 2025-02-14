@@ -31,6 +31,9 @@ github_username:  MDR
 theme: minima
 plugins:
   - jekyll-feed
+include:
+  - md_sites
+
 
 # Exclude from processing.
 # The following items will not be processed, by default.
