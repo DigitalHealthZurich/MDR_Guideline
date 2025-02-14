@@ -14,6 +14,32 @@
   <link rel="stylesheet" href="{{ '/assets/custom.css' | relative_url }}">
 </head>
 
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    document.querySelectorAll("object").forEach(obj => {
+      obj.addEventListener("load", function () {
+        let svgDoc = obj.contentDocument;
+        if (svgDoc) {
+          svgDoc.querySelectorAll("a").forEach(link => {
+            let actualHref = link.getAttribute("xlink:href") || link.getAttribute("href");
+
+            if (actualHref && !actualHref.startsWith("#")) { // Ignore internal SVG anchors
+              link.setAttribute("target", "_top"); // Open in full page
+              link.setAttribute("rel", "noopener noreferrer");
+
+              // Ensures the link does not open inside the object itself
+              link.addEventListener("click", function (event) {
+                event.preventDefault();
+                window.top.location.href = actualHref; // Forces full-page navigation
+              });
+            }
+          });
+        }
+      });
+    });
+  });
+</script>
+
 <body>
   <!-- Include the custom header from _includes/header.html -->
   {% include header.html %}

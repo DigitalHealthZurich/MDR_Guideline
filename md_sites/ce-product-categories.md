@@ -3,8 +3,8 @@ layout: default
 title: CE Product Categories – Overview
 ---
 
-## **CE Product Categories – A Comprehensive Overview**
 
+## **CE Product Categories – A Comprehensive Overview**
 The **CE marking** is a certification that a product complies with the European Union’s safety, health, and environmental protection requirements. It is required for a wide range of products before they can be sold in the EU. Depending on the nature of a product, it may fall under one or several of the following CE product categories, each governed by specific EU directives or regulations.
 
 ## Scope of MDR and Related Directives
