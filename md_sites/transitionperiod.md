@@ -3,7 +3,7 @@ layout: default
 title: Transition Period
 ---
 
-## 🔗 Table of Contents
+## Table of Contents
 - [New Products](#new-products)
 - [Legacy Devices](#legacy-devices-devices-already-on-the-market-under-mddaimdd)
 - [Key Conditions and Timelines](#key-conditions-and-timelines)
@@ -26,14 +26,13 @@ The transitional periods defined by the MDR govern the placement, availability, 
 
 ## New Products
 
-- 🟢 **Direct compliance with MDR is required** without transitional periods.
+- **Direct compliance with MDR is required** without transitional periods.
 
 ## Legacy Devices (devices already on the market under MDD/AIMDD)
 
-- 🟠 **Transitional rules apply** if the device holds a valid certificate issued before **May 26, 2021**.
+- **Transitional rules apply** if the device holds a valid certificate issued before **May 26, 2021**.
 - These rules are critical for ensuring **continued availability** while adapting to MDR.
 
-<br><br>
 <br><br>
 
 ---
@@ -43,24 +42,22 @@ The transitional periods defined by the MDR govern the placement, availability, 
 
 Legacy devices can remain on the market if:
 
-- ✅ The certificate was **valid as of May 26, 2021**, and has not expired.
-- ✅ **No significant changes** in design or intended purpose have occurred.
-- ✅ A **conformity assessment application under MDR** is submitted by **May 26, 2024**.
+- The certificate was **valid as of May 26, 2021**, and has not expired.
+- **No significant changes** in design or intended purpose have occurred.
+- A **conformity assessment application under MDR** is submitted by **May 26, 2024**.
 
 ### Specific Timelines:
 
 - **Class III and implantable Class IIb:** Placement allowed until **December 31, 2027**.
 - **Other Class IIb, Class IIa, and Is/Im:** Placement allowed until **December 31, 2028** *(TBD – check for citation).*
 
----
-
-## Availability and Use
+### Availability and Use
 
 - **As of February 2023**, there are no restrictions on the **continued availability** or **use of products** already on the market.
 
----
 <br><br>
 
+---
 # Key Requirements During the Transitional Period
 
 ## Post-Market Surveillance (PMS) and Vigilance
@@ -74,8 +71,9 @@ Legacy devices can remain on the market if:
 - **Class IIa/IIb:** Required from **May 26, 2023**.
 - **Class I:** Required from **May 26, 2025**.
 
----
 <br><br>
+
+---
 # Special Cases
 
 ## Well-Established Technologies
@@ -84,8 +82,9 @@ Legacy devices can remain on the market if:
 ## Custom-Made Class III Implantable Devices
 - Eligible for **placement without an MDR QMS certificate** until **May 26, 2026**, provided certain conditions are met.
 
----
 <br><br>
+
+---
 # Additional Resources
 
 📄 The **European Commission Q&A on MDR amendments** (**Regulation 2023/607**) provides additional information.  
