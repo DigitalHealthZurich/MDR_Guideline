@@ -161,3 +161,10 @@ Explicitly state:
 ### Other
 - [ ] Hardware/software requirements  
 - [ ] Networking, firewalls, and hazards analysis  
+
+---
+
+
+## References and Further Reading
+- 📄 **[]()**
+- 🔗 **[]()**

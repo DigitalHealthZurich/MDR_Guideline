@@ -76,4 +76,8 @@ The product description must be aligned with all other regulatory documents, inc
 
 Ensuring precise, legally compliant wording helps avoid inconsistencies that could lead to **regulatory scrutiny, rejection, or extensive revisions**.
 
+---
 
+## References and Further Reading
+- 📄 **[]()**
+- 🔗 **[]()**
