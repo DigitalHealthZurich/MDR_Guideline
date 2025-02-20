@@ -14,8 +14,11 @@
   <link rel="stylesheet" href="{{ '/assets/custom.css' | relative_url }}">
 </head>
 
+<script src="{{ '/assets/js/lunr.min.js' | relative_url }}"></script>
 <script>
   document.addEventListener("DOMContentLoaded", function () {
+    
+    // === SVG HANDLING SCRIPT ===
     document.querySelectorAll("object").forEach(obj => {
       obj.addEventListener("load", function () {
         let svgDoc = obj.contentDocument;
@@ -34,6 +37,7 @@
               });
             }
           });
+
           // Ensures SVG background remains white (removes dark mode styles in SVG files)
           let svgElement = svgDoc.querySelector("svg");
           if (svgElement) {
@@ -42,12 +46,46 @@
           }
         }
       });
+
       if (obj.contentDocument) {
         obj.dispatchEvent(new Event("load"));
       }
     });
+
+    // === LUNR.JS SEARCH FUNCTIONALITY ===
+    if (document.getElementById('search-box')) { // Ensure search elements exist
+      fetch('/search.json')
+        .then(response => response.json())
+        .then(data => {
+          const idx = lunr(function () {
+            this.ref('url');
+            this.field('title');
+            this.field('content');
+
+            data.forEach(doc => this.add(doc));
+          });
+
+          document.getElementById('search-box').addEventListener('input', function () {
+            let query = this.value.trim();
+            let resultsContainer = document.getElementById('search-results');
+            resultsContainer.innerHTML = '';
+
+            if (query.length > 1) {
+              let results = idx.search(query);
+              results.forEach(result => {
+                let item = data.find(doc => doc.url === result.ref);
+                let li = document.createElement('li');
+                li.innerHTML = `<a href="${item.url}">${item.title}</a>`;
+                resultsContainer.appendChild(li);
+              });
+            }
+          });
+        });
+    }
   });
 </script>
+
+
 
 <body>
   <!-- Include the custom header from _includes/header.html -->

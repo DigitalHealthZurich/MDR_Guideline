@@ -3,9 +3,14 @@ layout: default
 title: Transition Period
 ---
 
+# Transition Periods and Regulatory Pathway Selection
+The transitional periods defined by the MDR govern the placement, availability, and use of medical devices already on the market before the MDR's full implementation. These periods depend on the device class, certificates' validity, and specific regulatory requirements. 
+
+
 ## Table of Contents
-- [New Products](#new-products)
-- [Legacy Devices](#legacy-devices-devices-already-on-the-market-under-mddaimdd)
+- [Scope](#scope)
+  - [New Products](#new-products)
+  - [Legacy Devices](#legacy-devices-devices-already-on-the-market-under-mddaimdd)
 - [Key Conditions and Timelines](#key-conditions-and-timelines)
   - [Placement on the Market](#placement-on-the-market)
   - [Availability and Use](#availability-and-use)
@@ -21,8 +26,7 @@ title: Transition Period
 
 ---
 
-# Transition Periods and Regulatory Pathway Selection
-The transitional periods defined by the MDR govern the placement, availability, and use of medical devices already on the market before the MDR's full implementation. These periods depend on the device class, certificates' validity, and specific regulatory requirements. 
+# Scope
 
 ## New Products
 
