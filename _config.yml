@@ -36,6 +36,8 @@ plugins:
 include:
   - md_sites
   - "search.json"
+  - "search.html"
+
 
 
 # Exclude from processing.

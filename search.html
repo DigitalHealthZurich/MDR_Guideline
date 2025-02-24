@@ -1,0 +1,52 @@
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        let searchBox = document.getElementById("search-box");
+        let resultsContainer = document.getElementById("search-results");
+  
+        fetch("{{ site.baseurl }}/search.json")
+            .then(response => response.json())
+            .then(data => {
+                let idx = lunr(function () {
+                    this.ref("url");
+                    this.field("title");
+                    this.field("content");
+  
+                    data.forEach(doc => this.add(doc));
+                });
+  
+                function performSearch(query) {
+                    resultsContainer.innerHTML = "";
+                    if (query.length > 2) {
+                        let results = idx.search(query);
+                        if (results.length === 0) {
+                            resultsContainer.innerHTML = "<li>No results found</li>";
+                        } else {
+                            results.forEach(result => {
+                                let doc = data.find(d => d.url === result.ref);
+                                if (doc) {
+                                    let item = document.createElement("li");
+                                    item.innerHTML = `<a href="${doc.url}">${doc.title}</a>`;
+                                    resultsContainer.appendChild(item);
+                                }
+                            });
+                        }
+                    }
+                }
+  
+                // Search as you type
+                searchBox.addEventListener("input", function () {
+                    performSearch(searchBox.value.trim());
+                });
+  
+                // Search on Enter key
+                searchBox.addEventListener("keypress", function (event) {
+                    if (event.key === "Enter") {
+                        event.preventDefault();
+                        performSearch(searchBox.value.trim());
+                    }
+                });
+            })
+            .catch(error => console.error("Error loading search.json:", error));
+    });
+  </script>
+  

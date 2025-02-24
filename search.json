@@ -5,11 +5,17 @@ permalink: /search.json
 [
   {% assign documents = site.pages | concat: site.posts %}
   {% for doc in documents %}
-    {% if doc.title and doc.title != "" %}
+    {% if doc.title and doc.content and doc.title != "" and doc.content != "" %}
     {
       "title": {{ doc.title | jsonify }},
       "url": {{ doc.url | absolute_url | jsonify }},
-      "content": {{ doc.content | strip_html | strip_newlines | truncatewords: 100 | jsonify }}
+      "content": {{ doc.content | strip_html | strip_newlines | normalize_whitespace | jsonify }}
+    }{% unless forloop.last %},{% endunless %}
+    {% else %}
+    {
+      "title": null,
+      "url": null,
+      "content": null
     }{% unless forloop.last %},{% endunless %}
     {% endif %}
   {% endfor %}

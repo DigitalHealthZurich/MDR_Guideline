@@ -57,9 +57,10 @@
     let searchResults = document.getElementById('search-results');
 
     if (searchBox && searchResults) {
-      fetch('/search.json')
+      fetch('/MDR_Guideline/search.json')
         .then(response => response.json())
         .then(data => {
+          data = data.filter(el => el.title !== null);
           const idx = lunr(function () {
             this.ref('url');
             this.field('title');
@@ -98,9 +99,8 @@
             if (event.key === "Enter") {
               event.preventDefault();
               let query = searchBox.value.trim();
-              if (query.length > 1) {
-                window.location.href = `/search-results.html?q=${encodeURIComponent(query)}`;
-              }
+              let results = idx.search(query);
+              console.log(results);
             }
           });
 
