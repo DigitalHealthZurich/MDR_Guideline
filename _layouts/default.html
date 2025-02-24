@@ -5,7 +5,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   
-  <title>{{ page.title }} | {{ site.title }}</title>
+  <title>{% if page.title %}{{ page.title }}{% else %}Untitled{% endif %} | {{ site.title }}</title>
   
   <!-- Link to Google Fonts for Roboto -->
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
@@ -52,8 +52,11 @@
       }
     });
 
-    // === LUNR.JS SEARCH FUNCTIONALITY ===
-    if (document.getElementById('search-box')) { // Ensure search elements exist
+    // === SEARCH FUNCTIONALITY ===
+    let searchBox = document.getElementById('search-box');
+    let searchResults = document.getElementById('search-results');
+
+    if (searchBox && searchResults) {
       fetch('/search.json')
         .then(response => response.json())
         .then(data => {
@@ -61,39 +64,67 @@
             this.ref('url');
             this.field('title');
             this.field('content');
-
             data.forEach(doc => this.add(doc));
           });
 
-          document.getElementById('search-box').addEventListener('input', function () {
+          // 🔍 Live Search Display
+          searchBox.addEventListener('input', function () {
             let query = this.value.trim();
-            let resultsContainer = document.getElementById('search-results');
-            resultsContainer.innerHTML = '';
+            searchResults.innerHTML = '';
 
             if (query.length > 1) {
               let results = idx.search(query);
+              if (results.length > 0) {
+                searchResults.classList.add('active');
+              } else {
+                searchResults.classList.remove('active');
+              }
+
               results.forEach(result => {
                 let item = data.find(doc => doc.url === result.ref);
-                let li = document.createElement('li');
-                li.innerHTML = `<a href="${item.url}">${item.title}</a>`;
-                resultsContainer.appendChild(li);
+                if (item) {
+                  let li = document.createElement('li');
+                  li.innerHTML = `<a href="${item.url}">${item.title}</a>`;
+                  searchResults.appendChild(li);
+                }
               });
+            } else {
+              searchResults.classList.remove('active');
             }
           });
-        });
+
+          // 🔍 Handle "Enter" Key Press for Full Search Page
+          searchBox.addEventListener("keypress", function (event) {
+            if (event.key === "Enter") {
+              event.preventDefault();
+              let query = searchBox.value.trim();
+              if (query.length > 1) {
+                window.location.href = `/search-results.html?q=${encodeURIComponent(query)}`;
+              }
+            }
+          });
+
+          // Hide results when clicking outside the search area
+          document.addEventListener("click", function (event) {
+            if (!searchBox.contains(event.target) && !searchResults.contains(event.target)) {
+              searchResults.classList.remove('active');
+            }
+          });
+        })
+        .catch(error => console.error("Error loading search.json:", error));
     }
+
   });
 </script>
-
-
 
 <body>
   <!-- Include the custom header from _includes/header.html -->
   {% include header.html %}
+  
   <main class="page-content" aria-label="Content">
     <object type="image/svg+xml" data="{{ site.baseurl }}/assets/MDR_Guideline_With_Links.svg" width="100%" height="auto"></object>
     {{ content }}
-</main>
+  </main>
 
   <footer class="site-footer h-card">
     <div class="wrapper"> 

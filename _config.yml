@@ -23,7 +23,9 @@ email: mdr_sks@zhaw.ch
 description: >-
   A comprehensive tool to help determine if a product qualifies as a medical device under MDR and guide users through compliance steps.
 baseurl: "/MDR_Guideline" # the subpath of your site, e.g. /blog
+
 url: "https://digitalhealthzurich.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
+
 #twitter_username: jekyllrb
 github_username:  MDR
 
@@ -33,6 +35,7 @@ plugins:
   - jekyll-feed
 include:
   - md_sites
+  - "search.json"
 
 
 # Exclude from processing.
