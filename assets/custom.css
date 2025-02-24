@@ -134,7 +134,6 @@ body {
       padding: 10px !important;
   }
 }
-
 .search-container {
   position: absolute;
   top: 10px; /* Adjust vertical position */
@@ -143,6 +142,7 @@ body {
   align-items: center;
 }
 
+/* Search Box */
 #search-box {
   width: 220px;
   padding: 6px;
@@ -150,50 +150,72 @@ body {
   border: 1px solid #ccc;
   border-radius: 5px;
   outline: none;
+  color: #000; /* Black text */
+  background-color: #fff;
+  transition: border-color 0.2s ease-in-out;
 }
 
 #search-box:focus {
-  border-color: #0073e6; /* Highlight border when focused */
+  border-color: #0073e6; /* Blue focus border */
 }
 
+/* Search Results Dropdown */
 #search-results {
   position: absolute;
-  top: 35px;
-  right: 0;
-  width: 250px;
-  background: white;
-  border: 1px solid #ccc;
+  top: 38px; /* Align right below the search box */
+  left: 0; /* Fully align results to the left */
+  width: 100%; /* Ensure it aligns properly with search box */
+  background: #fff; /* White background */
+  border: 1px solid #ddd;
+  border-radius: 5px;
   list-style: none;
-  padding: 0;
-  margin: 0;
+  padding: 0; /* Remove extra padding */
+  margin: 0; /* Remove any unwanted margins */
   z-index: 1000;
-  max-height: 200px;
+  max-height: 160px; /* Keep dropdown compact */
   overflow-y: auto;
   box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
-  border-radius: 5px;
-  display: none; /* Hide by default */
+  display: none;
 }
 
+/* Each Search Result */
 #search-results li {
-  padding: 8px;
-  border-bottom: 1px solid #eee;
+  padding: 2px 4px; /* Reduce padding for compact layout */
+  font-size: 8px; /* Make text smaller */
+  color: #000 !important; /* Ensure black text */
+  cursor: pointer;
+  background-color: #fff; /* Keep background white */
+  transition: background 0.2s ease-in-out;
+  white-space: normal; /* Allow multi-line results */
+  line-height: 1.0; /* Reduce line height for compactness */
+  border-bottom: 1px solid #ddd; /* Soft separator */
+  text-align: left; /* Ensure text is fully aligned left */
 }
 
+/* Remove border from last item */
 #search-results li:last-child {
   border-bottom: none;
 }
 
+/* Hover Effect */
+#search-results li:hover {
+  background-color: #e0e0e0; /* Light gray background */
+}
+
+/* Links Inside Results */
 #search-results li a {
   text-decoration: none;
-  color: black;
+  color: #000 !important; /* Ensure black text even on hover */
   display: block;
+  padding: 2px 4px;
+  white-space: normal; /* Prevent breaking words apart */
 }
 
-#search-results li a:hover {
-  background-color: #f0f0f0;
-}
-
-/* Show search results only when there are results */
+/* Show results only when active */
 #search-results.active {
   display: block;
 }
+
+
+
+
