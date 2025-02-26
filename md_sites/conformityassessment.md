@@ -3,6 +3,9 @@ layout: default
 title: Conformity Assessment
 ---
 
+## Conformity Assessment Annex IX-XI Chapter V Classification and Conformity Assessment
+The **Conformity Assessment** process outlined in Annex IX to XI defines the procedures manufacturers must follow to demonstrate that a medical device meets regulatory requirements before being placed on the market. These annexes describe different conformity assessment routes based on the device classification (Chapter V), which is determined by factors such as intended purpose, risk level, and design complexity. The assessment process varies by class: higher-risk devices require involvement of a Notified Body**, while lower-risk devices may follow self-certification procedures.
+
 ## Table of Contents
 - [Conformity Assessment Based on Type Examination](#conformity-assessment-based-on-type-examination)
 - [Procedure for Certain Class III and Class IIb Devices](#procedure-for-certain-class-iib-and-class-iii-devices)
@@ -11,16 +14,10 @@ title: Conformity Assessment
 - [Quality Management System and Assessment of Technical Documentation](#quality-management-system-and-assessment-of-technical-documentation)
 - [CE-Marking without Notified Body](#ce-marking-without-notified-body)
 - [CE-Marking with Notified Body](#ce-marking-with-notified-body)
-<br><br>
 
 # How to Select the Correct Conformity Assessment Procedure
 
 <object type="image/svg+xml" data="{{ site.baseurl }}/assets/Classification.svg" width="60%" height="auto"></object>
-
----
-
-## Conformity Assessment Annex IX-XI Chapter V Classification and Conformity Assessment
-TBD Check if general summary about this necessary 
 
 ---
 

@@ -3,6 +3,10 @@ layout: default
 title: Intended Purpose
 ---
 
+# Intended Purpose
+ Article 2(12) of the MDR defines **Intended Purpose** as:
+> "the use for which a device is intended according to the data supplied by the manufacturer on the label, in the instructions for use or in promotional or sales materials or statements"
+
 ## Table of Contents
 - [General Intended Purpose](#general-intended-purpose)
 - [Detailed Intended Purpose](#detailed-intended-purpose)
@@ -14,7 +18,7 @@ title: Intended Purpose
 
 ---
 
-# Intended Purpose
+
 
 ## General Intended Purpose
 Before determining classification or regulatory requirements, manufacturers must establish the general intended purpose of their product. This high-level definition is the starting point for determining whether the product qualifies as a medical device under **MDR Article 2(1)**.

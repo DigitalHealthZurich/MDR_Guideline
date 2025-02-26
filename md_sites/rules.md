@@ -3,6 +3,9 @@ layout: default
 title: Qualification Rules
 ---
 
+# Classification Overview
+The classification process is based on the **intended purpose** of the device and its inherent **risks**, as defined in **MDR Annex VIII**.
+
 ## Table of Contents
 - [Classification Overview](#classification-overview)
 - [Classification Levels](#classification-levels)
@@ -13,11 +16,6 @@ title: Qualification Rules
   - [Active Devices (Rules 9-13)](#active-devices-rules-9-13)
   - [Special Rules (Rules 14-22)](#special-rules-rules-14-22)
 - [References and Further Reading](#references-and-further-reading)
-
----
-
-# Classification Overview
-The classification process is based on the **intended purpose** of the device and its inherent **risks**, as defined in **MDR Annex VIII**.
 
 ---
 
@@ -66,7 +64,7 @@ Manufacturers must apply the **appropriate classification rules** based on the d
 ---
 
 ## References and Further Reading
-- 📄 **MDCG 2021-24 Guidance on Classification of Medical Devices**
+- 📄 **MDCG 2021-24 Guidance on Classification of Medical Devices** TBD
 - 🔗 **[Johner Institute Blog on Classification](https://www.johner-institut.de/blog/tag/klassifizierung/)**
 - 🔗 **[MDR Annex VIII (EUR-Lex)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R0745#anx_%C2%A0VIII)**
 

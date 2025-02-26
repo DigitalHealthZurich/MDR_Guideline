@@ -22,7 +22,6 @@ The transitional periods defined by the MDR govern the placement, availability, 
   - [Well-Established Technologies](#well-established-technologies)
   - [Custom-Made Class III Implantable Devices](#custom-made-class-iii-implantable-devices)
 - [Additional Resources](#additional-resources)
-<br><br>
 
 ---
 
@@ -37,9 +36,8 @@ The transitional periods defined by the MDR govern the placement, availability, 
 - **Transitional rules apply** if the device holds a valid certificate issued before **May 26, 2021**.
 - These rules are critical for ensuring **continued availability** while adapting to MDR.
 
-<br><br>
-
 ---
+
 # Key Conditions and Timelines
 
 ## Placement on the Market
@@ -59,9 +57,8 @@ Legacy devices can remain on the market if:
 
 - **As of February 2023**, there are no restrictions on the **continued availability** or **use of products** already on the market.
 
-<br><br>
-
 ---
+
 # Key Requirements During the Transitional Period
 
 ## Post-Market Surveillance (PMS) and Vigilance
@@ -75,9 +72,8 @@ Legacy devices can remain on the market if:
 - **Class IIa/IIb:** Required from **May 26, 2023**.
 - **Class I:** Required from **May 26, 2025**.
 
-<br><br>
-
 ---
+
 # Special Cases
 
 ## Well-Established Technologies
@@ -86,10 +82,8 @@ Legacy devices can remain on the market if:
 ## Custom-Made Class III Implantable Devices
 - Eligible for **placement without an MDR QMS certificate** until **May 26, 2026**, provided certain conditions are met.
 
-<br><br>
-
 ---
+
 # Additional Resources
 
-📄 The **European Commission Q&A on MDR amendments** (**Regulation 2023/607**) provides additional information.  
-🔗 [**Access the document here**](https://health.ec.europa.eu/latest-updates/qa-practical-aspects-related-implementation-regulation-eu-2023607-extension-mdr-transitional-period-2023-03-28_en).
+🔗 [**European Commission Q&A on MDR amendments** (**Regulation 2023/607**)](https://health.ec.europa.eu/latest-updates/qa-practical-aspects-related-implementation-regulation-eu-2023607-extension-mdr-transitional-period-2023-03-28_en).

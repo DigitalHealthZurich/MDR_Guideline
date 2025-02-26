@@ -4,20 +4,47 @@ title: "MDR Guideline"
 permalink: /
 ---
  
-# Welcome to the Medical Device Regulation Guideline
+# Welcome to the Medical Device Regulation (MDR 2017/745) Guideline
 
-This website is designed to guide you through the process of determining whether your product qualifies as a medical device under the Medical Device Regulation (MDR). It provides a guideline to help you understand the necessary compliance steps and navigate the regulatory landscape.
+This guideline provides a comprehensive yet concise overview of the [Medical Device Regulation (MDR 2017/745)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32017R0745), the European Union’s regulatory framework for medical devices. It aims to help manufacturers, regulators, and other stakeholders navigate the requirements for compliance, ensuring the safety and performance of medical devices placed on the EU market.
 
-- **Determine Qualification**: Find out if your product is classified as a medical device.
-- **Understand Classification**: Learn about the different classes of medical devices and where your product fits.
-- **Compliance Requirements**: Explore the General Safety and Performance Requirements (GSPR) and other compliance needs.
-- **Submission Guidelines**: Get guidance on how to submit your product for regulatory approval.
+---
+
+## Key Objectives of the MDR
+
+- **Enhance Device Safety:** Strengthens oversight of high-risk devices and post-market surveillance.
+- **Improve Traceability:** Implements the Unique Device Identification (UDI) system.
+- **Increase Transparency:** Mandates detailed documentation and device registration in [EUDAMED](https://ec.europa.eu/tools/eudamed).
+- **Expand Device Scope:** Includes software as a medical device (SaMD) and aesthetic devices with similar risks.
+
+---
+
+## What the Guideline Covers
+
+- **Device Classification:** Explains risk-based classification rules ([Annex VIII](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32017R0745#d1e32-242-1)).
+- **Intended Purpose:** Clarifies the importance of defining intended use for regulatory compliance.
+- **Technical Documentation:** Details the structure and content required ([Annex II](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32017R0745#d1e2767-103-1) & [Annex III](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32017R0745#d1e2882-105-1)).
+- **Conformity Assessment:** Outlines pathways based on device class ([Annex IX](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32017R0745#d1e3157-109-1)–[Annex XI](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32017R0745#d1e3338-113-1)).
+- **Clinical Evaluation:** Highlights requirements for safety and performance evidence ([Annex XIV](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32017R0745#d1e3481-118-1)).
+- **Post-Market Surveillance (PMS):** Describes processes for monitoring devices post-approval.
+- **Quality Management System (QMS):** Explains the need for MDR-compliant QMS (ISO 13485).
+- **UDI and EUDAMED:** Summarizes requirements for device traceability and registration.
+
+---
+
+## Target Audience
+
+This guideline is designed for medical device manufacturers, importers, distributors, authorized representatives, and regulatory professionals seeking a clear and actionable overview of MDR requirements.
+
+---
+
 
 ## Get Started
+- [Already on Market?](https://digitalhealthzurich.github.io/MDR_Guideline/md_sites/transitionperiod.html)
+- [General Intended Purpose](https://digitalhealthzurich.github.io/MDR_Guideline/md_sites/intendedpurpose.html)
+- [Ethical Guidelines](https://digitalhealthzurich.github.io/MDR_Guideline/md_sites/ethical-guidelines.html)
 
-- [CE Product Categories](/MDR_Guideline//md_sites/ce-product-categories.html)
-- [MDR Overview](/MDR_Guideline//md_sites/qualification_intended_use.html)
-
+---
 ## Additional Resources
 
 [About MDR](about.html)<br>
@@ -26,5 +53,5 @@ This website is designed to guide you through the process of determining whether
 
 ---
 
-If you have any questions or need further assistance, feel free to [contact us](mailto:mdr_sks@zhaw.ch). TBD
+If you have any questions or need further assistance, feel free to [contact us](mailto:xxx@xxx.ch). TBD
 

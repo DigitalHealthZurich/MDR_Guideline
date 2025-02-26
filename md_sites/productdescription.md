@@ -3,6 +3,9 @@ layout: default
 title: Product Description
 ---
 
+# Product Description
+The **Product Description** provides a detailed overview of a medical device, including its design, functionality, composition, intended purpose, key technical characteristics, and available configurations, ensuring clarity for regulatory compliance and user understanding.
+
 ## Table of Contents
 - [General Requirements](#general-requirements)
 - [Generic Device Group & Regulatory Classification](#generic-device-group--regulatory-classification)
@@ -11,8 +14,6 @@ title: Product Description
 - [Consistency Across Documentation & Compliance](#consistency-across-documentation--compliance)
 
 ---
-
-# Product Description
 
 ## General Requirements
 A comprehensive and accurate product description is a fundamental requirement under **MDR Annex II**. It serves as the foundation for **classification (Annex VIII)**, **conformity assessment (Annex IX–XI)**, and the overall **technical documentation**.
