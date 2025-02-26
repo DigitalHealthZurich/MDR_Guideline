@@ -8,19 +8,6 @@ permalink: /
 
 This guideline provides a comprehensive yet concise overview of the [Medical Device Regulation (MDR 2017/745)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32017R0745), the European Union’s regulatory framework for medical devices. It aims to help manufacturers, regulators, and other stakeholders navigate the requirements for compliance, ensuring the safety and performance of medical devices placed on the EU market.
 
----
-
-## Key Objectives of the MDR
-
-- **Enhance Device Safety:** Strengthens oversight of high-risk devices and post-market surveillance.
-- **Improve Traceability:** Implements the Unique Device Identification (UDI) system.
-- **Increase Transparency:** Mandates detailed documentation and device registration in [EUDAMED](https://ec.europa.eu/tools/eudamed).
-- **Expand Device Scope:** Includes software as a medical device (SaMD) and aesthetic devices with similar risks.
-
----
-
-## What the Guideline Covers
-
 - **Device Classification:** Explains risk-based classification rules ([Annex VIII](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32017R0745#d1e32-242-1)).
 - **Intended Purpose:** Clarifies the importance of defining intended use for regulatory compliance.
 - **Technical Documentation:** Details the structure and content required ([Annex II](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32017R0745#d1e2767-103-1) & [Annex III](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32017R0745#d1e2882-105-1)).
