@@ -15,7 +15,8 @@ title: Intended Purpose
 - [Intended Users](#intended-users)
 - [Usage Context (Use Environment and Normal Use)](#usage-context-use-environment-and-normal-use)
 - [Exclusions & Limitations](#exclusions--limitations)
-
+- [Checklist](#checklist)
+- [References and Further Reading](#references-and-further-reading)
 ---
 
 
@@ -37,26 +38,28 @@ If the product meets the definition of a medical device under **MDR Article 2(1)
 The **Intended Purpose** is a critical component of the **technical documentation** for a medical device.
 
 A precisely defined Intended Purpose serves as the foundation for:
-- **Classification** (*MDR Annex VIII*)
+- **Classification** (MDR Annex VIII)
 - **Regulatory approval** and conformity assessment
-- **Risk management** (*ISO 14971 compliance*)
+- **Risk management** (ISO 14971 compliance)
 - **Unique Device Identification (UDI) definition**
-- **Clinical evaluation** (*MDR Annex XIV*)
+- **Clinical evaluation** (MDR Annex XIV)
 - **Usability testing and validation**
 
 ### Common Mistakes
-- **Unclear, incomplete, or contradictory statements** may delay approval and trigger audit issues.
-- **Writing a functional description** instead of a **purpose-oriented statement**.
+- Unclear, incomplete, or contradictory statements may delay approval and trigger audit issues.
+- Writing a functional description instead of a purpose-oriented statement.
 
 ### Consistency Across Documentation
-To achieve regulatory approval **without delays**, the **Intended Purpose must be consistently reflected** across all relevant documentation. This includes:
+To achieve regulatory approval without delays, the Intended Purpose must be consistently reflected across all relevant documentation. 
+
+This includes:
 - **Technical documentation**
 - **Clinical evaluation reports**
 - **Risk management files**
 - **Marketing claims**
 - **Instructions for use**
 
-Any discrepancies can lead to **regulatory investigation, rejection, or extensive revisions**. A common issue arises when **marketing claims exaggerate or misrepresent** the device's function compared to its officially stated Intended Purpose. 
+Any discrepancies can lead to regulatory investigation, rejection, or extensive revisions. A common issue arises when marketing claims exaggerate or misrepresent the device's function compared to its officially stated Intended Purpose. 
 
 **Example:** If marketing materials claim that a device "detects skin cancer with AI," but the Intended Purpose states that it only "assists dermatologists in risk assessment," this inconsistency can lead to regulatory scrutiny.
 
@@ -72,8 +75,8 @@ Ensuring precise, legally compliant wording from the outset aligns with:
 ## Medical Purpose
 Clearly state the **medical function** the device fulfills:
 
-- **Diagnosis, prevention, monitoring, treatment, or alleviation** of a disease, injury, or condition.
-- **Prediction or assessment** of medical conditions.
+- Diagnosis, prevention, monitoring, treatment, or alleviation of a disease, injury, or condition.
+- Prediction or assessment of medical conditions.
 
 **Example:** The device helps in diagnosing … by doing/providing …
 
@@ -168,7 +171,13 @@ Explicitly state:
 
 ---
 
-
 ## References and Further Reading
-- 📄 **[]()**
-- 🔗 **[]()**
+- 🔗 **[MDR (EU) 2017/745](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0745)**
+- 🔗 **[MDCG Guidance Documents (European Commission)](https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en)**  
+- 🔗 **[ISO 14971:2019 - Risk Management for Medical Devices (ISO Overview)](https://www.iso.org/standard/72704.html)**  
+- 🔗 **[ISO 13485:2016 - Quality Management Systems for Medical Devices (ISO Overview)](https://www.iso.org/standard/59752.html)**  
+- 🔗 **[IEC 62366-1:2015 - Usability Engineering for Medical Devices (IEC Overview)](https://www.iso.org/obp/ui/#iso:std:iec:62366:-1:ed-1:v1:en)**  
+- 🔗 **[MDR Classification Rules - Annex VIII](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R0745#anx_VIII)**   
+- 📄 **[Intended Purpose Checklist](https://digitalhealthzurich.github.io/MDR_Guideline/assets/Intended%20Purpose%20Checklist.pdf)**
+
+
