@@ -25,7 +25,7 @@ To determine if software is a **standalone software** under MDR:
     - [Refer to MDCG 2019-11 for Software Qualification and Classification](https://health.ec.europa.eu/system/files/2020-09/md_mdcg_2019_11_guidance_qualification_classification_software_en_0.pdf)
 
 
-- If **no** → The software is not considered standalone software** and may be classified based on Intended Purpose and integration within a medical device system.
+- If **no** → The software is not considered standalone software and may be classified based on Intended Purpose and integration within a medical device system.
 
 ---
 
