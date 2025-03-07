@@ -68,7 +68,8 @@ The PED regulates the design, manufacture, and conformity assessment of pressure
 ### General Product Safety Directive (GPSD)
 This directive applies to any product placed on the market that is not covered by a specific directive. It requires that all consumer products are safe under normal and foreseeable conditions of use.
 - **Directive**: [2001/95/EC](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32001L0095){:target="_blank"}
---------------------------------------------------------------
+
+---
 
 <!--- **Click here to proceed → [Medical Device Classification Based on Intended Use and Risk](qualification_intended_use.html)**-->
 
