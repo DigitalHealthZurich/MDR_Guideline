@@ -32,11 +32,14 @@ This guideline is designed for medical device manufacturers, importers, distribu
 - [Ethical Guidelines](https://digitalhealthzurich.github.io/MDR_Guideline/md_sites/ethical-guidelines.html)
 
 ---
+
 ## Additional Resources
 
-[About MDR](about.html)<br>
+- **[MDR (EU) 2017/745](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0745)**
+
+<!--[About MDR](about.html)<br>
 [Contact Us](contact.html)<br>
-[Impressum](impressum.html)<br>
+[Impressum](impressum.html)<br>-->
 
 ---
 

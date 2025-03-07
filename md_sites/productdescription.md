@@ -19,8 +19,8 @@ The **Product Description** provides a detailed overview of a medical device, in
 A comprehensive and accurate product description is a fundamental requirement under **MDR Annex II**. It serves as the foundation for **classification (Annex VIII)**, **conformity assessment (Annex IX–XI)**, and the overall **technical documentation**.
 
 The product description should:
-- Provide a **clear overview** of the medical device, its **function, intended use, and technological characteristics**.
-- Be **consistent across all documentation** and updated throughout the device lifecycle.
+- Provide a clear overview of the medical device, its function, intended use, and technological characteristics.
+- Be consistent across all documentation and updated throughout the device lifecycle.
 
 ### **MDR Annex II, Section 1.1(a) Requires:**
 - A **detailed device description**, including intended purpose and classification rationale.
@@ -40,7 +40,7 @@ Manufacturers should verify whether additional guidance, such as **MDCG 2021-24 
 ---
 
 ## Comparable Devices & Equivalence Justification
-If applicable, manufacturers should provide a **comparative analysis** of similar products already on the market. This is especially important for devices claiming **equivalence in clinical evaluation (Annex XIV, Part A, Section 3)**.
+If applicable, manufacturers should provide a comparative analysis of similar products already on the market. This is especially important for devices claiming equivalence in clinical evaluation (Annex XIV, Part A, Section 3).
 
 The comparison should highlight:
 - **Similarities** in design, intended use, and technical specifications.
@@ -48,13 +48,13 @@ The comparison should highlight:
 - **Compliance** with relevant harmonized standards (*e.g., IEC 60601 for electrical safety, ISO 10993 for biocompatibility*).
 
 ### **Impact on Classification and Clinical Data**
-- **Equivalence justification** can affect the required **clinical data for conformity assessment**.
-- If a product shares risk factors with higher-risk devices, it may impact **classification (Annex VIII)**.
+- Equivalence justification can affect the required clinical data for conformity assessment.
+- If a product shares risk factors with higher-risk devices, it may impact classification (Annex VIII).
 
 ---
 
 ## Novel Features & Innovation
-A key component of the product description is identifying any **novel or innovative aspects** of the device.
+A key component of the product description is identifying any novel or innovative aspects of the device.
 
 ### **MDR Annex II, Section 1.1(b) Requires Documentation Of:**
 - **Technological advancements** distinguishing the device from previous iterations.
@@ -63,8 +63,8 @@ A key component of the product description is identifying any **novel or innovat
 
 ### **Supporting Evidence**
 Any novel features should be supported by:
-- **Scientific evidence and technical justifications** (*MDR Annex XIV – Clinical Evaluation*).
-- **Risk-benefit assessments**, as required by **ISO 14971** and **MDR Annex I – General Safety and Performance Requirements (GSPR)**.
+- Scientific evidence and technical justifications (*MDR Annex XIV – Clinical Evaluation*).
+- Risk-benefit assessments, as required by **ISO 14971** and **MDR Annex I – General Safety and Performance Requirements (GSPR)**.
 
 ---
 
@@ -75,10 +75,10 @@ The product description must be aligned with all other regulatory documents, inc
 - **Risk management documentation** (*ISO 14971*)
 - **Post-market surveillance reports** (*Annex III, Section 1*)
 
-Ensuring precise, legally compliant wording helps avoid inconsistencies that could lead to **regulatory scrutiny, rejection, or extensive revisions**.
+Ensuring precise, legally compliant wording helps avoid inconsistencies that could lead to regulatory scrutiny, rejection, or extensive revisions.
 
 ---
 
 ## References and Further Reading
-- 📄 **[]()**
-- 🔗 **[]()**
+- 📄**[]()**
+- **[]()**

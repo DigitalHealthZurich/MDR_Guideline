@@ -132,6 +132,8 @@ Explicitly state:
 
 ## Checklist 
 
+📄 **[Intended Purpose Checklist Download](https://digitalhealthzurich.github.io/MDR_Guideline/assets/Intended%20Purpose%20Checklist.pdf)**
+
 ### Meta-Information
 - [ ] Product identification  
 - [ ] Adherence and limitations of the document  
@@ -172,12 +174,12 @@ Explicitly state:
 ---
 
 ## References and Further Reading
-- 🔗 **[MDR (EU) 2017/745](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0745)**
-- 🔗 **[MDCG Guidance Documents (European Commission)](https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en)**  
-- 🔗 **[ISO 14971:2019 - Risk Management for Medical Devices (ISO Overview)](https://www.iso.org/standard/72704.html)**  
-- 🔗 **[ISO 13485:2016 - Quality Management Systems for Medical Devices (ISO Overview)](https://www.iso.org/standard/59752.html)**  
-- 🔗 **[IEC 62366-1:2015 - Usability Engineering for Medical Devices (IEC Overview)](https://www.iso.org/obp/ui/#iso:std:iec:62366:-1:ed-1:v1:en)**  
-- 🔗 **[MDR Classification Rules - Annex VIII](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R0745#anx_VIII)**   
+- **[MDR (EU) 2017/745](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0745)**
+- **[MDCG Guidance Documents (European Commission)](https://health.ec.europa.eu/medical-devices-sector/new-regulations/guidance-mdcg-endorsed-documents-and-other-guidance_en)**  
+- **[ISO 14971:2019 - Risk Management for Medical Devices (ISO Overview)](https://www.iso.org/standard/72704.html)**  
+- **[ISO 13485:2016 - Quality Management Systems for Medical Devices (ISO Overview)](https://www.iso.org/standard/59752.html)**  
+- **[IEC 62366-1:2015 - Usability Engineering for Medical Devices (IEC Overview)](https://www.iso.org/obp/ui/#iso:std:iec:62366:-1:ed-1:v1:en)**  
+- **[MDR Classification Rules - Annex VIII](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R0745#anx_VIII)**   
 - 📄 **[Intended Purpose Checklist](https://digitalhealthzurich.github.io/MDR_Guideline/assets/Intended%20Purpose%20Checklist.pdf)**
 
 

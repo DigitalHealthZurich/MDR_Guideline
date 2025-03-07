@@ -66,7 +66,7 @@ A smartphone app analyzing ECG data for heart rate abnormalities → **SaMD**
 Embedded software inside an ECG machine controlling its hardware → **Not SaMD**  
 
 ---
-<!-->
+<!--
 Move to classification TBD
 ## Apply MDR Classification Rules
 Once software qualifies as **SaMD**, the next step is to classify it based on **risk categories** outlined in **Annex VIII of MDR 2017/745**. Classification depends on:
@@ -80,10 +80,10 @@ Once software qualifies as **SaMD**, the next step is to classify it based on **
 - **Class III:** Software making critical treatment decisions (e.g., autonomous software controlling insulin pumps).
 
 [Read Annex VIII of MDR 2017/745](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R0745#anx_XIII)
--->
+
 ---
 TBD add links
-
+-->
 ## Regulatory Requirements for SaMD
 Under **MDR 2017/745**, SaMD must comply with the following key requirements:
 - **Clinical Evaluation** (Article 61, Annex XIV) → Proof of safety and effectiveness.

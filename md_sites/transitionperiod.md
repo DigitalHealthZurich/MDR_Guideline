@@ -86,4 +86,4 @@ Legacy devices can remain on the market if:
 
 # Additional Resources
 
-🔗 [**European Commission Q&A on MDR amendments** (**Regulation 2023/607**)](https://health.ec.europa.eu/latest-updates/qa-practical-aspects-related-implementation-regulation-eu-2023607-extension-mdr-transitional-period-2023-03-28_en).
+- [**European Commission Q&A on MDR amendments** (**Regulation 2023/607**)](https://health.ec.europa.eu/latest-updates/qa-practical-aspects-related-implementation-regulation-eu-2023607-extension-mdr-transitional-period-2023-03-28_en).
