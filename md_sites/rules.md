@@ -64,9 +64,9 @@ Manufacturers must apply the **appropriate classification rules** based on the d
 ---
 
 ## References and Further Reading
-- 📄 **MDCG 2021-24 Guidance on Classification of Medical Devices** TBD
-- 🔗 **[Johner Institute Blog on Classification](https://www.johner-institut.de/blog/tag/klassifizierung/)**
-- 🔗 **[MDR Annex VIII (EUR-Lex)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R0745#anx_%C2%A0VIII)**
+- **MDCG 2021-24 Guidance on Classification of Medical Devices** 
+- **[Johner Institute Blog on Classification](https://www.johner-institut.de/blog/tag/klassifizierung/)**
+- **[MDR Annex VIII (EUR-Lex)](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R0745#anx_%C2%A0VIII)**
 
 
 

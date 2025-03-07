@@ -80,5 +80,4 @@ Ensuring precise, legally compliant wording helps avoid inconsistencies that cou
 ---
 
 ## References and Further Reading
-- 📄**[]()**
 - **[]()**
