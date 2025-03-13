@@ -24,7 +24,7 @@ This section outlines the required content for Information to Be Supplied by the
 
 ## Labeling
 
-- All labels applied directly to the device, its packaging, and any sterile packaging.
+- All labels applied directly to the device, its primary and secondary packaging, and any sterile packaging.
 - The label must include the following, where applicable:
     - Name or trade name of the device.
     - UDI carrier.
