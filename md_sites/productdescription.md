@@ -90,5 +90,4 @@ Maintaining a clear and consistent product description across all documentation 
 - **[MDR Annex II – Technical Documentation](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R0745#anx_II)**
 - **[MDR Annex XIV – Clinical Evaluation Requirements](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R0745#anx_XIV)**
 - **[MDR Annex VIII – Classification Rules](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R0745#anx_VIII)**
-- **[MDCG 2021-24: Guidance on Classification of Medical Devices](https://health.ec.europa.eu/system/files/2021-10/md_mdcg_2021-24_guidance_classification_en_0.pdf)**
 - **[ISO 14971: Risk Management for Medical Devices](https://www.iso.org/standard/72704.html)**
