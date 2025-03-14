@@ -8,7 +8,6 @@ The **Product Description** provides a detailed overview of a medical device, in
 
 ## Table of Contents
 - [General Requirements](#general-requirements)
-- [Generic Device Group & Regulatory Classification](#generic-device-group--regulatory-classification)
 - [Comparable Devices & Equivalence Justification](#comparable-devices--equivalence-justification)
 - [Novel Features & Innovation](#novel-features--innovation)
 - [Consistency Across Documentation & Compliance](#consistency-across-documentation--compliance)
@@ -16,68 +15,80 @@ The **Product Description** provides a detailed overview of a medical device, in
 ---
 
 ## General Requirements
-A comprehensive and accurate product description is a fundamental requirement under **MDR Annex II**. It serves as the foundation for **classification (Annex VIII)**, **conformity assessment (Annex IX–XI)**, and the overall **technical documentation**.
+A comprehensive and accurate product description is a fundamental requirement under MDR Annex II (Technical Documentation) and MDR Annex XIV (Clinical Evaluation Plan). It serves as the foundation for Classification (Annex VIII), Conformity Assessment (Annex IX–XI), and post-market obligations.
 
 The product description should:
 - Provide a clear overview of the medical device, its function, intended use, and technological characteristics.
 - Be consistent across all documentation and updated throughout the device lifecycle.
 
+
 ### **MDR Annex II, Section 1.1(a) Requires:**
-- A **detailed device description**, including intended purpose and classification rationale.
-- A **comparison to similar devices**, if applicable.
-- A **summary of novel features** distinguishing it from existing technologies.
+- A detailed description of the device, including its intended use and classification rationale.
+- Information on materials, design principles, and operational modes.
+- A comparison to similar devices, if applicable.
 
----
+### **MDR Annex XIV, Part A, Section 1(d) Requires:**
+- A detailed description of the device under evaluation, including its intended application and use.
+- Identification of target patient groups, indications, and contraindications.
 
-## Generic Device Group & Regulatory Classification
-Devices must be categorized into a **Generic Device Group** based on intended use and technological characteristics, aligning with:
-- **European Medical Device Nomenclature (EMDN)**
-- **CND/EMDN 1681 codes**
-- **MDR Annex VIII classification rules**
-
-Manufacturers should verify whether additional guidance, such as **MDCG 2021-24 (Guidance on Classification of Medical Devices)**, applies to their product.
+A well-structured product description ensures alignment across regulatory documentation, clinical evaluation, and risk management.
 
 ---
 
 ## Comparable Devices & Equivalence Justification
-If applicable, manufacturers should provide a comparative analysis of similar products already on the market. This is especially important for devices claiming equivalence in clinical evaluation (Annex XIV, Part A, Section 3).
 
-The comparison should highlight:
-- **Similarities** in design, intended use, and technical specifications.
-- **Differences** that may affect safety, performance, or usability.
-- **Compliance** with relevant harmonized standards (*e.g., IEC 60601 for electrical safety, ISO 10993 for biocompatibility*).
+If claiming equivalence under **MDR Annex XIV, Part A, Section 3**, manufacturers must provide a structured comparative analysis of similar products on the market.
 
-### **Impact on Classification and Clinical Data**
-- Equivalence justification can affect the required clinical data for conformity assessment.
-- If a product shares risk factors with higher-risk devices, it may impact classification (Annex VIII).
+### **Comparison Criteria (Annex XIV, Part A, Section 3):**
+- Same intended purpose and clinical application.
+- Comparable technological characteristics (design, materials, function).
+- Equivalent biological interaction (biocompatibility, safety profile).
+
+**Equivalence Justification Implications:**
+- If equivalence is demonstrated, existing clinical data may be used to support conformity.
+- If differences exist, additional clinical investigations may be required.
+- Higher-risk devices may require notified body involvement for equivalence validation.
+
+Supporting evidence should also be documented in the **Clinical Evaluation Report and Technical Documentation (Annex II).**
 
 ---
 
 ## Novel Features & Innovation
-A key component of the product description is identifying any novel or innovative aspects of the device.
 
-### **MDR Annex II, Section 1.1(b) Requires Documentation Of:**
-- **Technological advancements** distinguishing the device from previous iterations.
-- **Unique design features** that may impact safety and performance.
-- **New materials or software functionalities**, especially if they introduce new risk factors (*e.g., AI-based decision support, nanomaterials*).
+MDR Annex II, Section 1.1(b), "Device description and specification, including variants and accessories," requires manufacturers to document any novel technological aspects that may influence device safety, performance, or regulatory requirements. 
 
-### **Supporting Evidence**
-Any novel features should be supported by:
-- Scientific evidence and technical justifications (*MDR Annex XIV – Clinical Evaluation*).
-- Risk-benefit assessments, as required by **ISO 14971** and **MDR Annex I – General Safety and Performance Requirements (GSPR)**.
+If the device includes novel design aspects, new materials, or innovative technologies, manufacturers must provide a clear description, including:
+- Key technological advancements distinguishing the device from existing alternatives.
+- New materials, software functionalities, or AI-based components.
+- Potential impact on safety and performance.
+
+### Documentation Requirements Under MDR Annex II, Section 1.1(b)
+Note: In addition to describing novel features, manufacturers must provide supporting documentation demonstrating compliance with safety and performance standards. This includes:
+- Scientific evidence justifying new features.
+- Risk-benefit analysis in accordance with MDR Annex I – General Safety and Performance Requirements (GSPR).
+- ISO 14971-compliant risk assessments.
+
+Devices incorporating machine learning, nanotechnology, or novel biomaterials may require additional safety validation and risk assessments. These should be referenced in the risk management file (ISO 14971) and clinical evaluation report (Annex XIV).
 
 ---
 
 ## Consistency Across Documentation & Compliance
-The product description must be aligned with all other regulatory documents, including:
-- **Instructions for Use** (*Annex I, Section 23*)
-- **Labeling requirements** (*Annex I, Section 23.4*)
-- **Risk management documentation** (*ISO 14971*)
-- **Post-market surveillance reports** (*Annex III, Section 1*)
 
-Ensuring precise, legally compliant wording helps avoid inconsistencies that could lead to regulatory scrutiny, rejection, or extensive revisions.
+The product description must align with all regulatory documentation, ensuring consistency across:
+
+- **Instructions for Use (IFU)** (*Annex I, Section 23*)
+- **Labeling Requirements** (*Annex I, Section 23.4*)
+- **Risk Management File (ISO 14971)**
+- **Post-Market Surveillance Reports** (*Annex III, Section 1*)
+
+Maintaining a clear and consistent product description across all documentation helps avoid regulatory scrutiny, notified body rejections, or unnecessary revisions.
 
 ---
 
-## References and Further Reading
-- **[]()**
+## Additional References
+
+- **[MDR Annex II – Technical Documentation](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R0745#anx_II)**
+- **[MDR Annex XIV – Clinical Evaluation Requirements](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R0745#anx_XIV)**
+- **[MDR Annex VIII – Classification Rules](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017R0745#anx_VIII)**
+- **[MDCG 2021-24: Guidance on Classification of Medical Devices](https://health.ec.europa.eu/system/files/2021-10/md_mdcg_2021-24_guidance_classification_en_0.pdf)**
+- **[ISO 14971: Risk Management for Medical Devices](https://www.iso.org/standard/72704.html)**

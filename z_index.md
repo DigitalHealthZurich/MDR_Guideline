@@ -6,7 +6,7 @@ permalink: /
  
 # Welcome to the Medical Device Regulation (MDR 2017/745) Guideline
 
-The [Medical Device Regulation (MDR 2017/745)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0745) sets the regulatory framework for placing medical devices on the EU market. This guide provides an overview of the key steps for compliance, outlining the main requirements and processes involved. It supports manufacturers, regulators, and other stakeholders in understanding these requirements to ensure the safety and performance of medical devices.
+The [Medical Device Regulation (MDR 2017/745)](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0745){:target="_blank"} sets the regulatory framework for placing medical devices on the EU market. This guide provides an overview of the key steps for compliance, outlining the main requirements and processes involved. It supports manufacturers, regulators, and other stakeholders in understanding these requirements to ensure the safety and performance of medical devices.
 
 The following key steps outline the regulatory process:
 - **Device Qualification & Classification:** Determine whether the product qualifies as a medical device and classify it based on risk, duration, and invasiveness according to the MDR classification rules.
@@ -46,7 +46,7 @@ If you're unsure where to begin, consider these key starting points:
 
 ## Additional Resources
 
-- **[MDR (EU) 2017/745](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0745)**
+- **[MDR (EU) 2017/745](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32017R0745){:target="_blank"}**
 
 <!--[About MDR](about.html)<br>
 [Contact Us](contact.html)<br>

@@ -87,17 +87,17 @@ The MDR does not explicitly define well-established technologies (WET), but guid
 - Established technologies with little change over time.
 - Low risk and well-established clinical use.
 
-[MDCG 2020-6](https://health.ec.europa.eu/system/files/2020-09/md_mdcg_2020_6_guidance_sufficient_clinical_evidence_en_0.pdf)
+**[Refer to MDCG 2020-6](https://health.ec.europa.eu/system/files/2020-09/md_mdcg_2020_6_guidance_sufficient_clinical_evidence_en_0.pdf){:target:"_blank"}**
 
 ### Exemptions for WET
 
 Under **Article 61(4) of the MDR**, implantable and Class III devices generally require clinical investigations. However, exemptions exist if:
 
-- The device has been **demonstrated to be equivalent** to an existing device.
-- **Sufficient clinical data** is available.
-- The device is based on a **well-established technology**.
+- The device has been demonstrated to be equivalent to an existing device.
+- Sufficient clinical data is available.
+- The device is based on a well-established technology.
 
-[MDCG 2023-7](https://health.ec.europa.eu/system/files/2023-12/mdcg_2023-7_en.pdf)
+**[Refer to MDCG 2023-7](https://health.ec.europa.eu/system/files/2023-12/mdcg_2023-7_en.pdf){:target:"_blank"}**
 
 ### Examples of Well-Established Technologies
 
@@ -116,11 +116,11 @@ The MDR provides examples of WET, which include:
 - Clips
 - Connectors
 
-[MDR Article 52(4)](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A32017R0745)
+**[Refer to MDR Article 52(4)](https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX%3A32017R0745){:target:"_blank"}**
 
 ### Recommendation
 
-Manufacturers should consult the **MDR** and relevant **MDCG guidance documents** to determine if their devices qualify as WET and to understand applicable exemptions. It is essential to ensure compliance with all regulatory requirements and to consult with **regulatory authorities** or **notified bodies** when necessary.
+Manufacturers should consult the MDR and relevant MDCG guidance documents to determine if their devices qualify as WET and to understand applicable exemptions. It is essential to ensure compliance with all regulatory requirements and to consult with regulatory authorities or notified bodies when necessary.
 
 ## Custom-Made Class III Implantable Devices
 - Eligible for placement without an MDR QMS certificate until **May 26, 2026**, provided certain conditions are met.
@@ -129,7 +129,7 @@ Manufacturers should consult the **MDR** and relevant **MDCG guidance documents*
 
 # Additional Resources
 
-- [European Commission Q&A on MDR amendments (Regulation 2023/607)](https://health.ec.europa.eu/latest-updates/qa-practical-aspects-related-implementation-regulation-eu-2023607-extension-mdr-transitional-period-2023-03-28_en).
-- [Transitional Provisions](https://health.ec.europa.eu/medical-devices-vitro-diagnostics/transitional-provisions_en)
-- [MDCG  2023-1 Guidance on the health institution exemption under Article 5(5) of  Regulation (EU) 2017/745 and Regulation (EU) 2017/746 ](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://health.ec.europa.eu/system/files/2023-01/mdcg_2023-1_en.pdf)
-- [chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://health.ec.europa.eu/system/files/2020-09/md_mdcg_2020_6_guidance_sufficient_clinical_evidence_en_0.pdf](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://health.ec.europa.eu/system/files/2020-09/md_mdcg_2020_6_guidance_sufficient_clinical_evidence_en_0.pdf)
+- **[European Commission Q&A on MDR amendments (Regulation 2023/607)](https://health.ec.europa.eu/latest-updates/qa-practical-aspects-related-implementation-regulation-eu-2023607-extension-mdr-transitional-period-2023-03-28_en){:target="_blank"}**
+- **[Transitional Provisions](https://health.ec.europa.eu/medical-devices-vitro-diagnostics/transitional-provisions_en){:target="_blank"}**
+- **[MDCG  2023-1 Guidance on the health institution exemption under Article 5(5) of  Regulation (EU) 2017/745 and Regulation (EU) 2017/746 ](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://health.ec.europa.eu/system/files/2023-01/mdcg_2023-1_en.pdf){:target="_blank"}**
+- **[Regulation (EU) 2017/745: Clinical evidence needed for  medical devices previously CE marked under Directives 93/42/EEC or 90/385/EEC](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://health.ec.europa.eu/system/files/2020-09/md_mdcg_2020_6_guidance_sufficient_clinical_evidence_en_0.pdf){:target="_blank"}**
